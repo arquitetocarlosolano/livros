@@ -10,6 +10,6 @@ Meus livros:
 - Nossas Árvores - O Resgate do Sagrado: [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/nossas-arvores.pdf)
 - Nossas Árvores - O Resgate do Sagrado (CAPA): [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/nossas-arvores-capa.pdf)
 
-  :warning: Alguns arquivos podem ser muito pesados para serem visualizados no celular. Por favor, faça o download pelo computador.
+:warning: Alguns arquivos podem ser muito pesados para serem visualizados no celular. Por favor, faça o download pelo computador.
 
 [Meu site](https://carlossolano.com.br/)
