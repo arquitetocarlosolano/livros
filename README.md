@@ -6,9 +6,9 @@
 
 Meus livros:
 
-- Alma da Pedra: [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/alma-da-pedra.pdf)
-- Nossas Árvores - O Resgate do Sagrado: [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/nossas-arvores.pdf)
-- Nossas Árvores - O Resgate do Sagrado (CAPA): [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/nossas-arvores-capa.pdf)
+- Alma da Pedra: [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/alma-da-pedra.pdf) [[PDF/Online]](https://arquiteto-carlos-solano-livros.herokuapp.com/file/alma-da-pedra)
+- Nossas Árvores - O Resgate do Sagrado: [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/nossas-arvores.pdf) [[PDF/Online]](https://arquiteto-carlos-solano-livros.herokuapp.com/file/nossas-arvores)
+- Nossas Árvores - O Resgate do Sagrado (CAPA): [[PDF/Online]](https://github.com/arquitetocarlosolano/livros/blob/main/nossas-arvores-capa.pdf) [[PDF/Online]](https://arquiteto-carlos-solano-livros.herokuapp.com/file/nossas-arvores-capa)
 
 :warning: Alguns arquivos podem ser muito pesados para serem visualizados no celular. Por favor, faça o download pelo computador.
 
